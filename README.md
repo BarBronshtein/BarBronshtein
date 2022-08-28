@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React,Vue.JS, Angular**
 
-- 📫 How to reach me **BarBr@gmail.com**
+- 📫 How to reach me **Bar.Bron10@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😜**
 
