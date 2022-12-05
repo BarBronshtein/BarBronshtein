@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bar Bronshtein</h1>
 <h3 align="center">A passionate Frontend / Full-Stack developer</h3>
 
-- 🌱 I’m currently learning **Data structures & Algorithms**
+- 🌱 I’m currently learning about **Module Federation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BarBronshtein?tab=repositories](https://github.com/BarBronshtein?tab=repositories)
 
