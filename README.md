@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bar Bronshtein</h1>
 <h3 align="center">A passionate Frontend / Full-Stack developer</h3>
 
-- 🌱 I’m currently learning about **Module Federation**
+- 🌱 I’m currently learning about **Game Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BarBronshtein?tab=repositories](https://github.com/BarBronshtein?tab=repositories)
 
 - 💬 Ask me about **React,Vue.JS, Angular**
 
 - 📫 How to reach me **Bar.Bron10@gmail.com**
+
+- 🌐 Portfolio [https://barbronshtein-portfolio.netlify.app/](https://barbronshtein-portfolio.netlify.app/)
 
 - ⚡ Fun fact **I think I am funny 😜**
 
